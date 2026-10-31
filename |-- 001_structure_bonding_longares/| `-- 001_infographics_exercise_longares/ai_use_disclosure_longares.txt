@@ -1,0 +1,1 @@
+This project utilized Google Gemini AI and OpenAI ChatGPT for the part of interesting structural facts and additional trivia, and to synthesize key informations for clarity and readability
